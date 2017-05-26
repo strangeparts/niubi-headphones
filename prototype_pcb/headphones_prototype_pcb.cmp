@@ -1,0 +1,411 @@
+Cmp-Mod V01 Created by PcbNew   date = Thursday, May 25, 2017 'PMt' 06:08:32 PM
+
+BeginCmp
+TimeStamp = 5926B50D
+Path = /5926AC50
+Reference = J8;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59269C9C
+Path = /592675DD
+Reference = J7;
+ValeurCmp = IPHONE_HEADPHONE_JACK;
+IdModule  = iphone_6s_headphone_jack:IPHONE_6S_HEADPHONE_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5931ECBD
+Path = /59266125
+Reference = U4;
+ValeurCmp = NC7S32;
+IdModule  = SparkFun-AnalogIC:SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5931ECB4
+Path = /5926483D
+Reference = U3;
+ValeurCmp = SN74LVC1G123;
+IdModule  = Housings_SSOP:SSOP-8_2.95x2.8mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5931ECA8
+Path = /59264843
+Reference = R3;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5931ECA2
+Path = /59264849
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B633
+Path = /59219A61
+Reference = U2;
+ValeurCmp = ADG774A;
+IdModule  = Housings_SSOP:QSOP-16_3.9x4.9mm_Pitch0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B61F
+Path = /59253176
+Reference = U1;
+ValeurCmp = SN74LVC1G123;
+IdModule  = Housings_SSOP:SSOP-8_2.95x2.8mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B613
+Path = /5925BA4D
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B60D
+Path = /5925CB48
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B607
+Path = /592561BA
+Reference = JP34;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B601
+Path = /59256197
+Reference = JP33;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5FB
+Path = /5925616C
+Reference = JP32;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5F5
+Path = /59256450
+Reference = JP31;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5EF
+Path = /59256414
+Reference = JP30;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5E9
+Path = /592563F1
+Reference = JP29;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5E3
+Path = /59256361
+Reference = JP28;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5DD
+Path = /5925935E
+Reference = JP27;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5D7
+Path = /59254265
+Reference = JP26;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5D1
+Path = /5925933B
+Reference = JP25;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5CB
+Path = /5925425F
+Reference = JP24;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5C5
+Path = /59259318
+Reference = JP23;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5BF
+Path = /59254259
+Reference = JP22;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5B9
+Path = /59259740
+Reference = JP21;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5B3
+Path = /59254253
+Reference = JP20;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5AD
+Path = /59259718
+Reference = JP19;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5A7
+Path = /5925424D
+Reference = JP18;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B5A1
+Path = /592596FD
+Reference = JP17;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B59B
+Path = /5925916B
+Reference = JP16;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B595
+Path = /59254247
+Reference = JP15;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B58F
+Path = /592596DA
+Reference = JP14;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B589
+Path = /59259148
+Reference = JP13;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B583
+Path = /59254241
+Reference = JP12;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B57D
+Path = /59258EFC
+Reference = JP11;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B577
+Path = /5925423B
+Reference = JP10;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B571
+Path = /59254233
+Reference = JP9;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B56B
+Path = /5925B6A5
+Reference = JP8;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B565
+Path = /59258A7F
+Reference = JP7;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B55F
+Path = /59258A5F
+Reference = JP6;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B559
+Path = /59258A44
+Reference = JP5;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B553
+Path = /592589BE
+Reference = JP4;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NC_BY_TRACE_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B54D
+Path = /5925884E
+Reference = JP3;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B547
+Path = /59258833
+Reference = JP2;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B541
+Path = /59258810
+Reference = JP1;
+ValeurCmp = Jumper_NO_Small;
+IdModule  = SparkFun-Passives:PAD-JUMPER-2-NO_NO_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B53B
+Path = /5925354C
+Reference = J6;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B51F
+Path = /59267C0B
+Reference = J5;
+ValeurCmp = LIGHTNING_HEADPHONE_ADAPTER;
+IdModule  = lightning_headphone_adapter:LIGHTNING_HEADPHONE_ADAPTER;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B50A
+Path = /5925421C
+Reference = J4;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B4E0
+Path = /59253C97
+Reference = J2;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B4C4
+Path = /59253C87
+Reference = J1;
+ValeurCmp = LIGHTING_JACK;
+IdModule  = lightning_jack:LIGHTNING_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B4B6
+Path = /5925CCF6
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5928B4EE
+Path = /5925420D
+Reference = J3;
+ValeurCmp = BOTTOM_FLEX_LIGHTNING;
+IdModule  = lightning_flex_pads:LIGHTNING_FLEX_PADS;
+EndCmp
+
+EndListe

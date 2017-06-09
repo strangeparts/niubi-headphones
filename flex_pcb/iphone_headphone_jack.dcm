@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPHONE_HEADPHONE_JACK
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+#End Doc Library

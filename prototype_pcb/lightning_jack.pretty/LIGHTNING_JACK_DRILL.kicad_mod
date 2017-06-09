@@ -1,4 +1,4 @@
-(module LIGHTNING_JACK (layer F.Cu) (tedit 5937F8CE)
+(module LIGHTNING_JACK_DRILL (layer F.Cu) (tedit 5937F8CE)
   (fp_text reference REF** (at 0 5.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

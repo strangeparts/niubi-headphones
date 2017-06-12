@@ -1,0 +1,9 @@
+(module WIRE_PAD_2x3mm (layer F.Cu) (tedit 593E27E0)
+  (fp_text reference REF** (at 0 1.85) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value WIRE_PAD_2x3mm (at 0.05 -1.9) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 3 2) (layers F.Cu F.Paste F.Mask))
+)

@@ -7,4 +7,5 @@
   (lib (name DSBGA-8)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/DSBGA-8.pretty)(options "")(descr ""))
   (lib (name micropak6)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/micropak6.pretty)(options "")(descr ""))
   (lib (name wire_pads)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/wire_pads.pretty)(options "")(descr ""))
+  (lib (name strange_parts_logo)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/strange_parts_logo.pretty)(options "")(descr ""))
 )

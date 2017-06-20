@@ -9,4 +9,5 @@
   (lib (name wire_pads)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/wire_pads.pretty)(options "")(descr ""))
   (lib (name strange_parts_logo)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/strange_parts_logo.pretty)(options "")(descr ""))
   (lib (name iphone_5_headphone_jack)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/iphone_5_headphone_jack.pretty)(options "")(descr ""))
+  (lib (name holes)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/holes.pretty)(options "")(descr ""))
 )

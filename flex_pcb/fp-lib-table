@@ -10,4 +10,7 @@
   (lib (name strange_parts_logo)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/strange_parts_logo.pretty)(options "")(descr ""))
   (lib (name iphone_5_headphone_jack)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/iphone_5_headphone_jack.pretty)(options "")(descr ""))
   (lib (name holes)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/holes.pretty)(options "")(descr ""))
+  (lib (name PVQFN-N16)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/PVQFN-N16.pretty)(options "")(descr ""))
+  (lib (name PUQFN-N16)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/PUQFN-N16.pretty)(options "")(descr ""))
+  (lib (name testpoints)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/testpoints.pretty)(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-update=Saturday, July 08, 2017 'PMt' 06:55:06 PM
+update=Friday, July 28, 2017 'PMt' 07:50:04 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -80,3 +80,13 @@ LibName48=nc7s32
 LibName49=iphone_headphone_jack
 LibName50=lightning_headphone_adapter
 LibName51=ts3a5018
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

@@ -13,4 +13,5 @@
   (lib (name PVQFN-N16)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/PVQFN-N16.pretty)(options "")(descr ""))
   (lib (name PUQFN-N16)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/PUQFN-N16.pretty)(options "")(descr ""))
   (lib (name testpoints)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/testpoints.pretty)(options "")(descr ""))
+  (lib (name 牛逼)(type KiCad)(uri /Users/scotty/code/headphones/flex_pcb/牛逼.pretty)(options "")(descr ""))
 )

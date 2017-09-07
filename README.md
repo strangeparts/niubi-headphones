@@ -11,4 +11,6 @@ There are a couple limitations of this design:
 - You cannot use the headphone jack while anything is plugged into the lightning jack.
 - You need to move taptic engine and battery upward and shave the headphone jack, case, and screen to get enough room for the flex pcb, headphone adapter board, and flex pcb to fit.
 
+## Contribute
+
 If you decide to improve or manufacture this - I would love to hear from you.  You can contact me here: http://strangeparts.com/contact.

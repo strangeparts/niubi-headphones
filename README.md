@@ -13,4 +13,4 @@ There are a couple limitations of this design:
 
 ## Contribute
 
-If you decide to improve or manufacture this - I would love to hear from you.  You can contact me here: http://strangeparts.com/contact.
+If you decide to improve or manufacture this - I would love to hear from you.  You can contact me here: https://strangeparts.com/contact.

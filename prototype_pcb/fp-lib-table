@@ -1,7 +1,7 @@
 (fp_lib_table
-  (lib (name lightning_jack)(type KiCad)(uri /Users/scotty/code/headphones/prototype_pcb/lightning_jack.pretty)(options "")(descr ""))
-  (lib (name lightning_flex_pads)(type KiCad)(uri /Users/scotty/code/headphones/prototype_pcb/lightning_flex_pads.pretty)(options "")(descr ""))
-  (lib (name lightning_headphone_adapter)(type KiCad)(uri /Users/scotty/code/headphones/prototype_pcb/lightning_headphone_adapter.pretty)(options "")(descr ""))
-  (lib (name iphone_6s_headphone_jack)(type KiCad)(uri /Users/scotty/code/headphones/prototype_pcb/iphone_6s_headphone_jack.pretty)(options "")(descr ""))
-  (lib (name strange_parts_logo-10mm)(type KiCad)(uri /Users/scotty/code/headphones/prototype_pcb/strange_parts_logo-10mm)(options "")(descr ""))
+  (lib (name lightning_jack)(type KiCad)(uri ${KIPRJMOD}/lightning_jack.pretty)(options "")(descr ""))
+  (lib (name lightning_flex_pads)(type KiCad)(uri ${KIPRJMOD}/lightning_flex_pads.pretty)(options "")(descr ""))
+  (lib (name lightning_headphone_adapter)(type KiCad)(uri ${KIPRJMOD}/lightning_headphone_adapter.pretty)(options "")(descr ""))
+  (lib (name iphone_6s_headphone_jack)(type KiCad)(uri ${KIPRJMOD}/iphone_6s_headphone_jack.pretty)(options "")(descr ""))
+  (lib (name strange_parts_logo-10mm)(type KiCad)(uri ${KIPRJMOD}/strange_parts_logo-10mm)(options "")(descr ""))
 )

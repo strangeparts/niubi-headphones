@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name headphones)(type KiCad)(uri /Users/scotty/code/headphones/headphones.pretty)(options "")(descr ""))
+  (lib (name headphones)(type KiCad)(uri ${KIPRJMOD}/headphones.pretty)(options "")(descr ""))
 )
